@@ -1,0 +1,14 @@
+.list {
+  display: flex;
+  gap: 20px;
+
+  list-style: none;
+}
+
+.link {
+  color: black;
+}
+
+.activeLink {
+  color: tomato;
+}
